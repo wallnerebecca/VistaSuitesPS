@@ -10,9 +10,10 @@ export default function LuxuryBathroomsSection() {
                     className="w-full h-full bg-cover bg-center"
                     style={{ backgroundImage: 'url("/images/luxuryRoomBath.jpg")' }}
                 />
+                <div className="absolute inset-0 bg-black/60 z-10" />
             </Parallax>
 
-            <div className="absolute inset-0 bg-black/60 z-10" />
+
 
             <div className="relative z-20 flex flex-col items-center justify-center text-center px-6 md:px-12 h-full">
                 <h2

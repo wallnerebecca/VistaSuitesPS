@@ -3,13 +3,13 @@
         "id": "luxury-room",
         "image": "/images/luxuryRoom.jpg",
         "title": "LUXURY ZIMMER",
-        "details": "MAX 2 GÄSTE / 1 DOPPELBETT OR 2 EINZELBETTEN"
+        "details": "MAX 2 GÄSTE / 1 DOPPELBETT ODER 2 EINZELBETTEN"
     },
     {
         "id": "deluxe-room",
         "image": "/images/deluxeRoom.jpg",
         "title": "DELUXE ZIMMER",
-        "details": "MAX 2 GÄSTE / 1 DOPPELBETT OR 2 EINZELBETTEN"
+        "details": "MAX 2 GÄSTE / 1 DOPPELBETT ODER 2 EINZELBETTEN"
     },
     {
         "id": "studio-suite",
