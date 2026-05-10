@@ -17,13 +17,6 @@
   /* --font-serif: var(--font-tan-mon-cheri); */
 }
 
-/* Dark mode */
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
 
 /* Base styles */
 body {
